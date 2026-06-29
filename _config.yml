@@ -26,23 +26,23 @@ tagline: "Mutli-hyphenate artist + creative coach"
 description: "Rich’s home base on the internet."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.richarmstrong.net" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: richarmstr_ong
-github_username: radrich
+twitter_username: richarmstrong_
+github_username: heyricharmstrong
 # fathom_analytics: WBBMJNFH
 logo: /assets/favicon-72.png
 
 social:
   links:
-    - https://twitter.com/richarmstr_ong
+    - https://twitter.com/richarmstrong_
     - https://www.linkedin.com/in/heyricharmstrong
-    - https://github.com/radrich
-    - https://instagram.com/richarmstr_ong
+    - https://github.com/heyricharmstrong
+    - https://instagram.com/heyricharmstrong
     - https://dribbble.com/richarmstr_ong
-    - https://behance.com/richarmstr_ong
-    - https://youtube.com/@richarmstr_ong
+    - https://behance.com/heyricharmstrong
+    - https://youtube.com/@heyricharmstrong
 
 twitter:
-  username: richarmstr_ong
+  username: richarmstrong_
   card: summary
 
 permalink: /:slug/

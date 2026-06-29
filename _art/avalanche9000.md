@@ -55,4 +55,4 @@ There are, of course, some things I’d like to change and explore more of, but 
 
 ### Notable links
 - On [Bēhance.](https://www.behance.net/gallery/213894459/Avalanche-9000)
-- I made [a big X thread](https://x.com/richarmstr_ong/status/1822942886658244617) on the creation process of this piece.
+- I made [a big X thread](https://x.com/richarmstrong_/status/1822942886658244617) on the creation process of this piece.
