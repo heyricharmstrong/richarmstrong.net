@@ -431,7 +431,6 @@ function startTimerAnimation() {
 function setupTimer() {
   const timerEl = document.querySelector('.promptTimer');
   if (!timerEl) {
-    console.log('Timer element not found');
     // load new words
     loadRandomItemsData(function () {
         replaceRandomItemsWithData();
