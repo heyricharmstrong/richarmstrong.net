@@ -430,7 +430,14 @@ function startTimerAnimation() {
 // Run logic when .promptTimer exists
 function setupTimer() {
   const timerEl = document.querySelector('.promptTimer');
-  if (!timerEl) return;
+  if (!timerEl) {
+    console.log('Timer element not found');
+    // load new words
+    loadRandomItemsData(function () {
+        replaceRandomItemsWithData();
+    });
+    return;
+  };
 
   startTimerAnimation();
 
